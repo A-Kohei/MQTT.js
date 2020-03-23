@@ -1,0 +1,12 @@
+Source: mqtt
+Section: unknown
+Priority: extra
+Maintainer: Kohei Akita <kohei.akita@photosynth.co.jp>
+Build-Depends: cdbs, debhelper, autotools-dev
+Standards-Version: 3.9.4
+
+Package: mqtt
+Architecture: any
+Depends: ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

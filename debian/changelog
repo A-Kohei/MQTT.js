@@ -1,0 +1,6 @@
+mqtt (2.12.0.1) stable; urgency=low
+
+  * fix : continue reconnect after connection established
+
+ -- Kohei Akita <kohei.akita@photosynth.co.jp>  Wed, 18 Mar 2020 20:39:54 +0900
+
